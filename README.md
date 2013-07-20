@@ -11,12 +11,14 @@ Except that I realized that I don't really Reflect. That I spend too much time g
 
 I don't like that.
 
-That's where Record comes in. It asks you a simple, reflective question every day. 
+That's where Record comes in. It asks you a simple, reflective question every day, via SMS.
 
 For example,
 - If you were to relive today, what would you do differently?
 - What was the most important thing you did today?
 - Whose life did you impact the most today?
+
+Answering is easy: just reply to the text message. 
 
 Answers are encrypted and stored. So you can think of this like a daily diary.
 
