@@ -1,0 +1,12 @@
+development: &development
+     adapter: postgresql
+     database: record_dev
+     username: 
+     password: 
+     host: localhost
+     min_messages: warning
+
+test: &test
+     <<: *development
+     database: record_test
+     
